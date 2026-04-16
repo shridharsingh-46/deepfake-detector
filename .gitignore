@@ -2,8 +2,6 @@
 *__pycache__*
 *.vscode*
 *.pyc
-*.pth
-*.pt
 *.dat
 
 # Large dataset and binary files
@@ -13,10 +11,6 @@ datasets/
 *.tar
 *.tar.gz
 *.pkl
-
-# Model weights directories (too large for GitHub)
-training/weights/
-training/pretrained/*.pth
 
 # Temp files
 *.tmp
